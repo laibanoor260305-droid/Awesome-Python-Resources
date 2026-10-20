@@ -92,6 +92,12 @@ Contributions are welcome! Whether it's fixing a bug, enhancing existing content
 
 #### Tutorial 
 - **[Python learning path for building Agentic AI](https://howtobuildagenticai.substack.com/p/python-learning-path-for-building?utm_source=share&utm_medium=android&r=f2squ&triedRedirect=true)** - FREE
+- **[The Python Tutorial by offical](https://docs.python.org/3/tutorial/)** - FREE
+- **[Google's Python Class](https://developers.google.com/edu/python)** - FREE
+
+#### Coures
+
+#### Coures
 
 #### Coures
 - **[Python for Beginners by miscorfot](https://learn.microsoft.com/en-us/shows/intro-to-python-development/)** - FREE
